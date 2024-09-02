@@ -4,6 +4,8 @@ Find Minecraft usernames that have not been used
 
 You could get rate limited lol
 
+if u want help u can contact me on [here](https://guns.lol/fraod)
+
 MUST INSTALL THESE IN ORDER TO RUN                                                                                                                                                                                                
 `requests`
 `colorama`
