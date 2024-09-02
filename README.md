@@ -1,4 +1,5 @@
 # Minecraft-Username-Generator
+EDUCATIONAL ONLY!!
 ------------------------------------------------
 Find Minecraft usernames that have not been used
 
